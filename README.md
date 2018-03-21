@@ -23,7 +23,7 @@ Presentación de Kick Off y conversaciones en el equipo para poder analizar cuá
 
 #### MODELO CANVAS.
 
-![Imagenes](affinityMap.jpg) 
+![Imagenes](innovaschools.jpg) 
 
 ![Imagenes](problemstatement.jpg) 
 ### EXPLORACION.
