@@ -22,8 +22,13 @@ Presentación de Kick Off y conversaciones en el equipo para poder analizar cuá
 ### DESCUBRIMIENTO
 
 #### MODELO CANVAS.
+![Imagenes](canvas.jpg) 
 
-![Imagenes](innovaschools.jpg) 
+#### ENCUESTAS.
+![Imagenes](encuestas1.png) 
+
+#### MODELO AFFINITY MAP.
+![Imagenes](affinityMap1.jpg) 
 
 ![Imagenes](problemstatement.jpg) 
 ### EXPLORACION.
