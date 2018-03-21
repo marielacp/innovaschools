@@ -19,21 +19,23 @@ Fech: "20/03/18"
 
 Presentación de Kick Off y conversaciones en el equipo para poder analizar cuáles serían las metodologías a usar para el reto asignado.
 
+### STAKHOLDERS
+- Gerente General.
+- Equipo directivo.
+- Consejo Escolar.
+- Coordinadores.
+- Departamento de Innovación, creatividad o desarrollo.
+- Departamento de Diseño.
+- Departamento de finanzas.
+- Principal-Usuarios.
+- 
+
 ### DESCUBRIMIENTO
 
 #### MODELO CANVAS.
 ![Imagenes](canvas.jpg) 
 
 #### ENCUESTAS.
-
-Hora             | Actividad 
------------------|----------------------------------------------------------------------------------------
-    5:00 pm      | Brainstorming de las experiencias personales de la integrantes del squad como usuarias de una agencia de bus interprovincial.
-    5:15 pm      | Affinity Map (Brainstorming).
-    5:20 pm      | Brainstorming: Posibles soluciones a la problemática en base a experiencias personales.
-    5:35 pm      | Affinity Map (Brainstorming).
-    5:40 pm      | Retrospectiva.
-
 NUMERO           | PREGUNTAS
 -----------------|----------------------------------------------------------------------------------------
     1            | ¿ Cuál es tu grado educativo?
@@ -53,16 +55,34 @@ NUMERO           | PREGUNTAS
 
 ![Imagenes](encuestas.png) 
 ![Imagenes](encuestas3.png) 
+![Imagenes](encuestasfoto.png) 
 
 #### MODELO AFFINITY MAP.
 ![Imagenes](affinityMap1.jpg) 
 
 #### MODELO PROBLEM STATEMENT.
-![Imagenes](problemstatement.jpg) 
+![Imagenes](problemstatement1.jpg) 
+
+#### USER PERSONA
+![Imagenes](userpersona1.png) 
 
 
-### EXPLORACION.
+### IDEACION
+### 1ER PROTOTIPO.
+![Imagenes](sket.png) 
+
+### 2DO PROTOTIPO.
+![Imagenes](sketches2.png) 
+
+### Storytelling
+![Imagenes](historia.png) 
+
 ### TESTEO.
+- Se realizaron dos prototipos, según los comentarios de los usuarios el 2do prototipo es el que es mas entendible e intuitivo, los iconos grandes, hacen que te jale la vista.
+
+
+
+
 ### ESCUCHAR.
 
 
