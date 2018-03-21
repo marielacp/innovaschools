@@ -11,7 +11,7 @@ Fech: "20/03/18"
 ***
 
 ## Design thinking.
-![Imagenes](designthinking.png) 
+![image](https://user-images.githubusercontent.com/32305619/37705819-3f069ef8-2ccb-11e8-8af3-88b68fd1e8c4.png)
 
 ### Descubrimiento e Investigación (Emphatizar).
 ### Proceso de Negocios.
