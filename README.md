@@ -26,6 +26,14 @@ Presentación de Kick Off y conversaciones en el equipo para poder analizar cuá
 
 #### ENCUESTAS.
 
+Hora             | Actividad 
+-----------------|----------------------------------------------------------------------------------------
+    5:00 pm      | Brainstorming de las experiencias personales de la integrantes del squad como usuarias de una agencia de bus interprovincial.
+    5:15 pm      | Affinity Map (Brainstorming).
+    5:20 pm      | Brainstorming: Posibles soluciones a la problemática en base a experiencias personales.
+    5:35 pm      | Affinity Map (Brainstorming).
+    5:40 pm      | Retrospectiva.
+
     NUMERO       | PREGUNTAS
 -----------------|----------------------------------------------------------------------------------------
     1            | ¿ Cuál es tu grado educativo?
@@ -38,9 +46,9 @@ Presentación de Kick Off y conversaciones en el equipo para poder analizar cuá
     8            | ¿A demás de la página de las mismas universidades, tu escuela te ofrece alguna plataforma virtual, con información, que necesitas sobre la carrera profesional que te gustaría seguir?
     9            | ¿Tu colegio te brinda asistencia de psicólogo vocacional?
     10           | ¿ Qué tanto sientes que te ayuda la escuela, para identificar tu vocación y elegir la carrera para tí?
-    11            | ¿ Qué tipo de ayuda en especifico recibes por medio de tu escuela para elegir tu carrera?
-    12            | ¿Cada que tiempo recibes este tipo de guía vocacional?
-    13            | "¿Te gustaría que exista una plataforma virtual, donde puedas tener acceso a toda la información de universidades, y al mismo tiempo saber tus habilidades, y contar con un psicólogo, que pueda orientarte de forma correcta y permanente, a elegir la mejor carrera profesional para ti, de acuerdo a tu perfil?, Si tu respuesta es SI ó NO, coméntame ¿Por qué?
+    11           | ¿ Qué tipo de ayuda en especifico recibes por medio de tu escuela para elegir tu carrera?
+    12           | ¿Cada que tiempo recibes este tipo de guía vocacional?
+    13           | "¿Te gustaría que exista una plataforma virtual, donde puedas tener acceso a toda la información de universidades, y al mismo tiempo saber tus habilidades, y contar con un psicólogo, que pueda orientarte de forma correcta y permanente, a elegir la mejor carrera profesional para ti, de acuerdo a tu perfil?, Si tu respuesta es SI ó NO, coméntame ¿Por qué?
   
 
 ![Imagenes](encuestas.png) 
