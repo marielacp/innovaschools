@@ -69,7 +69,7 @@ NUMERO           | PREGUNTAS
 
 ### IDEACION
 ### 1ER PROTOTIPO.
-![Imagenes](sket.png) 
+![Imagenes](sketches1.png) 
 
 ### 2DO PROTOTIPO.
 ![Imagenes](sketches2.png) 
