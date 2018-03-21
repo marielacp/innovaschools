@@ -26,6 +26,7 @@ Presentación de Kick Off y conversaciones en el equipo para poder analizar cuá
 
 #### ENCUESTAS.
 ![Imagenes](encuestas1.png) 
+![Imagenes](encuestas2.png) 
 
 #### MODELO AFFINITY MAP.
 ![Imagenes](affinityMap1.jpg) 
