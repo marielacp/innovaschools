@@ -6,7 +6,7 @@ Fech: "20/03/18"
 ---
 # Retos de codigo
 
-* **Track:** Crear una herramienta que sirva de guía al momento de escoger una carrera profesional, dirigida a alumnos de 4to y 5to año de educación secundaria.
+*** Crear una herramienta que sirva de guía al momento de escoger una carrera profesional, dirigida a alumnos de 4to y 5to año de educación secundaria.
 
 ***
 
