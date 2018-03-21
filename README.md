@@ -34,7 +34,7 @@ Hora             | Actividad
     5:35 pm      | Affinity Map (Brainstorming).
     5:40 pm      | Retrospectiva.
 
-    NUMERO       | PREGUNTAS
+NUMERO           | PREGUNTAS
 -----------------|----------------------------------------------------------------------------------------
     1            | ¿ Cuál es tu grado educativo?
     2            | ¿Qué edad tienes?
