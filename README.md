@@ -11,7 +11,7 @@ Fech: "20/03/18"
 ***
 
 ## Design thinking.
-![Imagenes](assets/images/designthinking.png) 
+![Imagenes](designthinking.png) 
 
 ### Descubrimiento e Investigación (Emphatizar).
 ### Proceso de Negocios.
@@ -23,9 +23,9 @@ Presentación de Kick Off y conversaciones en el equipo para poder analizar cuá
 
 #### MODELO CANVAS.
 
-![Imagenes](assets/images/affinityMap.jpg) 
+![Imagenes](affinityMap.jpg) 
 
-![Imagenes](assets/images/problemstatement.jpg) 
+![Imagenes](problemstatement.jpg) 
 ### EXPLORACION.
 ### TESTEO.
 ### ESCUCHAR.
